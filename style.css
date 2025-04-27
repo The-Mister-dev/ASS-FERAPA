@@ -283,7 +283,8 @@ textarea:focus {
   border: none;
 }
 .copyright {
-  font-size: 12px;
+  padding:20px;
+  font-size: 14px;
   margin-bottom: -40px;
 }
 .agrement {
